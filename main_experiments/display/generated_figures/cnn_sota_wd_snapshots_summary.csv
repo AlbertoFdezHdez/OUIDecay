@@ -1,0 +1,37 @@
+network,title,seed,wd,snapshot,step,method,method_name,mean_wd,std_wd,n_groups
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Inicio,0,WD fijo,uniform,5e-05,0.0,1.0
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Inicio,0,AdaDecayG,adadecayg,5e-05,0.0,1.0
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Inicio,0,OUIDecay,ouidecay,5.000000000000001e-05,6.776263578034403e-21,80.0
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Medio,6500,WD fijo,uniform,5e-05,0.0,1.0
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Medio,6500,AdaDecayG,adadecayg,5e-05,0.0,1.0
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Medio,6500,OUIDecay,ouidecay,0.00014142375064340253,8.088997815233042e-05,80.0
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Final,12500,WD fijo,uniform,5e-05,0.0,1.0
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Final,12500,AdaDecayG,adadecayg,5e-05,0.0,1.0
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Final,12500,OUIDecay,ouidecay,0.0001453098553062602,8.297891073600224e-05,80.0
+resnet50_food101,ResNet50 + Food101,1,0.05,Inicio,0,WD fijo,uniform,0.05,0.0,1.0
+resnet50_food101,ResNet50 + Food101,1,0.05,Inicio,0,AdaDecay,adadecay,0.05,0.0,1.0
+resnet50_food101,ResNet50 + Food101,1,0.05,Inicio,0,OUIDecay,ouidecay,0.04999999999999998,2.0816681711721685e-17,52.0
+resnet50_food101,ResNet50 + Food101,1,0.05,Medio,15000,WD fijo,uniform,0.05,0.0,1.0
+resnet50_food101,ResNet50 + Food101,1,0.05,Medio,15000,AdaDecay,adadecay,0.05,0.0,1.0
+resnet50_food101,ResNet50 + Food101,1,0.05,Medio,15000,OUIDecay,ouidecay,0.18034414528796905,0.03751147944787124,52.0
+resnet50_food101,ResNet50 + Food101,1,0.05,Final,29500,WD fijo,uniform,0.05,0.0,1.0
+resnet50_food101,ResNet50 + Food101,1,0.05,Final,29500,AdaDecay,adadecay,0.05,0.0,1.0
+resnet50_food101,ResNet50 + Food101,1,0.05,Final,29500,OUIDecay,ouidecay,0.18318750122303268,0.04143216023835622,52.0
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Inicio,0,WD fijo,uniform,0.1,0.0,1.0
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Inicio,0,AdaDecay,adadecay,0.1,0.0,1.0
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Inicio,0,OUIDecay,ouidecay,0.09999999999999999,1.3877787807814457e-17,119.0
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Medio,10000,WD fijo,uniform,0.1,0.0,1.0
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Medio,10000,AdaDecay,adadecay,0.1,0.0,1.0
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Medio,10000,OUIDecay,ouidecay,0.3221007595583288,0.09321845852372854,119.0
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Final,19500,WD fijo,uniform,0.1,0.0,1.0
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Final,19500,AdaDecay,adadecay,0.1,0.0,1.0
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Final,19500,OUIDecay,ouidecay,0.35379638904826277,0.08335951549833531,119.0
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Inicio,0,WD fijo,uniform,0.0005,0.0,1.0
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Inicio,0,AdaDecayG,adadecayg,0.0005,0.0,1.0
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Inicio,0,OUIDecay,ouidecay,0.0005,0.0,51.0
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Medio,10000,WD fijo,uniform,0.0005,0.0,1.0
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Medio,10000,AdaDecayG,adadecayg,0.0005,0.0,1.0
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Medio,10000,OUIDecay,ouidecay,0.0015763551205173725,0.0006241387613725277,51.0
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Final,19500,WD fijo,uniform,0.0005,0.0,1.0
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Final,19500,AdaDecayG,adadecayg,0.0005,0.0,1.0
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Final,19500,OUIDecay,ouidecay,0.0014132983477619888,0.0006438402654345195,51.0

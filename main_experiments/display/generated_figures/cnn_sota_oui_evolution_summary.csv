@@ -1,0 +1,145 @@
+network,title,seed,wd,snapshot,bin_index,bin_label,layer_start,layer_end,mean_oui,n_layers
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Inicio,1,1-7,1,7,5.000000000000001e-05,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Inicio,2,8-14,8,14,5.000000000000001e-05,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Inicio,3,15-21,15,21,5.000000000000001e-05,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Inicio,4,22-28,22,28,5.000000000000001e-05,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Inicio,5,29-35,29,35,5.000000000000001e-05,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Inicio,6,36-42,36,42,5.000000000000001e-05,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Inicio,7,43-49,43,49,5.000000000000001e-05,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Inicio,8,50-56,50,56,5.000000000000001e-05,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Inicio,9,57-62,57,62,5e-05,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Inicio,10,63-68,63,68,5e-05,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Inicio,11,69-74,69,74,5e-05,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Inicio,12,75-80,75,80,5e-05,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Medio,1,1-7,1,7,0.00014327464154249218,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Medio,2,8-14,8,14,0.0001523093020614924,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Medio,3,15-21,15,21,0.00018304699376375553,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Medio,4,22-28,22,28,0.00014573707189595168,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Medio,5,29-35,29,35,0.00017860459510686495,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Medio,6,36-42,36,42,0.00015018417095314773,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Medio,7,43-49,43,49,0.00011694733873491703,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Medio,8,50-56,50,56,0.00012316720846559595,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Medio,9,57-62,57,62,0.00013532726661465123,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Medio,10,63-68,63,68,9.081572322216108e-05,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Medio,11,69-74,69,74,9.282348945359166e-05,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Medio,12,75-80,75,80,0.00017453365301004287,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Final,1,1-7,1,7,0.000143133199604781,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Final,2,8-14,8,14,0.00015074759666100808,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Final,3,15-21,15,21,0.00017710536275100124,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Final,4,22-28,22,28,0.00013647358470867684,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Final,5,29-35,29,35,0.00018005669218334758,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Final,6,36-42,36,42,0.00014464302676266383,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Final,7,43-49,43,49,0.0001258303218456052,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Final,8,50-56,50,56,0.00012711820953336333,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Final,9,57-62,57,62,0.00014239520919900875,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Final,10,63-68,63,68,0.00011541569173710044,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Final,11,69-74,69,74,0.00013037991340238188,80
+efficientnetb0_stanfordcars,EfficientNet-B0 + Stanford Cars,1,5e-05,Final,12,75-80,75,80,0.00016664793001945684,80
+resnet50_food101,ResNet50 + Food101,1,0.05,Inicio,1,1-5,1,5,0.05,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Inicio,2,6-10,6,10,0.05,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Inicio,3,11-15,11,15,0.05,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Inicio,4,16-20,16,20,0.05,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Inicio,5,21-24,21,24,0.05,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Inicio,6,25-28,25,28,0.05,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Inicio,7,29-32,29,32,0.05,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Inicio,8,33-36,33,36,0.05,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Inicio,9,37-40,37,40,0.05,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Inicio,10,41-44,41,44,0.05,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Inicio,11,45-48,45,48,0.05,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Inicio,12,49-52,49,52,0.05,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Medio,1,1-5,1,5,0.18100985992971358,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Medio,2,6-10,6,10,0.201794487665299,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Medio,3,11-15,11,15,0.19721179789377669,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Medio,4,16-20,16,20,0.20031976464658058,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Medio,5,21-24,21,24,0.18859673742510316,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Medio,6,25-28,25,28,0.19317572437688518,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Medio,7,29-32,29,32,0.18818692534844383,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Medio,8,33-36,33,36,0.16641059241782646,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Medio,9,37-40,37,40,0.17399086488340904,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Medio,10,41-44,41,44,0.1652106786695614,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Medio,11,45-48,45,48,0.13802134867877133,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Medio,12,49-52,49,52,0.15546112927438493,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Final,1,1-5,1,5,0.1868490990603206,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Final,2,6-10,6,10,0.20778192519620506,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Final,3,11-15,11,15,0.20150942108639036,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Final,4,16-20,16,20,0.20336570873049503,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Final,5,21-24,21,24,0.1918338560009881,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Final,6,25-28,25,28,0.1981560999189401,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Final,7,29-32,29,32,0.19269644505083136,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Final,8,33-36,33,36,0.171531333512051,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Final,9,37-40,37,40,0.18010808287606528,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Final,10,41-44,41,44,0.17507847529596404,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Final,11,45-48,45,48,0.1442449079221922,52
+resnet50_food101,ResNet50 + Food101,1,0.05,Final,12,49-52,49,52,0.12840562273062953,52
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Inicio,1,1-10,1,10,0.1,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Inicio,2,11-20,11,20,0.1,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Inicio,3,21-30,21,30,0.1,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Inicio,4,31-40,31,40,0.1,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Inicio,5,41-50,41,50,0.1,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Inicio,6,51-60,51,60,0.1,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Inicio,7,61-70,61,70,0.1,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Inicio,8,71-80,71,80,0.1,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Inicio,9,81-90,81,90,0.1,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Inicio,10,91-100,91,100,0.1,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Inicio,11,101-110,101,110,0.1,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Inicio,12,111-119,111,119,0.1,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Medio,1,1-10,1,10,0.24001619796250906,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Medio,2,11-20,11,20,0.28664484872286655,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Medio,3,21-30,21,30,0.335124410130324,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Medio,4,31-40,31,40,0.3296765786665048,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Medio,5,41-50,41,50,0.33117704401476256,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Medio,6,51-60,51,60,0.3696110248824603,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Medio,7,61-70,61,70,0.396471763442053,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Medio,8,71-80,71,80,0.4084863647961498,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Medio,9,81-90,81,90,0.38100127413540485,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Medio,10,91-100,91,100,0.24537311567917858,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Medio,11,101-110,101,110,0.26527934110210283,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Medio,12,111-119,111,119,0.271263416899775,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Final,1,1-10,1,10,0.2840248859906621,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Final,2,11-20,11,20,0.3249226658851061,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Final,3,21-30,21,30,0.368866012667194,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Final,4,31-40,31,40,0.36440839956961907,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Final,5,41-50,41,50,0.3684875139735776,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Final,6,51-60,51,60,0.4064358164320079,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Final,7,61-70,61,70,0.41685800646613824,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Final,8,71-80,71,80,0.43763676446987115,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Final,9,81-90,81,90,0.405645715056866,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Final,10,91-100,91,100,0.29935818446115864,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Final,11,101-110,101,110,0.29112495900806673,119
+densenet121_cifar100,DenseNet121 + CIFAR100,1,0.1,Final,12,111-119,111,119,0.2693423396600675,119
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Inicio,1,1-5,1,5,0.0005,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Inicio,2,6-10,6,10,0.0005,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Inicio,3,11-15,11,15,0.0005,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Inicio,4,16-19,16,19,0.0005,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Inicio,5,20-23,20,23,0.0005,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Inicio,6,24-27,24,27,0.0005,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Inicio,7,28-31,28,31,0.0005,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Inicio,8,32-35,32,35,0.0005,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Inicio,9,36-39,36,39,0.0005,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Inicio,10,40-43,40,43,0.0005,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Inicio,11,44-47,44,47,0.0005,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Inicio,12,48-51,48,51,0.0005,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Medio,1,1-5,1,5,0.001700502712144785,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Medio,2,6-10,6,10,0.0018259213756732788,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Medio,3,11-15,11,15,0.002023224167917537,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Medio,4,16-19,16,19,0.0018043492834261374,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Medio,5,20-23,20,23,0.0018822504344814814,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Medio,6,24-27,24,27,0.001962894638762233,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Medio,7,28-31,28,31,0.0012212629329839885,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Medio,8,32-35,32,35,0.0011296420050910532,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Medio,9,36-39,36,39,0.001156427710148489,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Medio,10,40-43,40,43,0.0012544592844130713,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Medio,11,44-47,44,47,0.0011043022582374667,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Medio,12,48-51,48,51,0.00164587891938308,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Final,1,1-5,1,5,0.0017465832090322229,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Final,2,6-10,6,10,0.0019002186893763737,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Final,3,11-15,11,15,0.0020587604387692798,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Final,4,16-19,16,19,0.0018853540972141051,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Final,5,20-23,20,23,0.0018816370460116828,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Final,6,24-27,24,27,0.0013838865240263058,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Final,7,28-31,28,31,0.0010267226373538887,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Final,8,32-35,32,35,0.0009731851435876855,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Final,9,36-39,36,39,0.000738819150789188,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Final,10,40-43,40,43,0.0008975385519029302,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Final,11,44-47,44,47,0.0009300463612096014,51
+mobilenetv2_cifar10,MobileNetV2 + CIFAR10,1,0.0005,Final,12,48-51,48,51,0.0011704115003976293,51
